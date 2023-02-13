@@ -1,4 +1,4 @@
-
+//Exercise for Certification Javascript Essentials
 class Ejercicio{
 Adicion;
 Sustraccion;
@@ -21,7 +21,6 @@ Mult (num7 , num8){
     this.Multiplicacion = num7*num8
 };
 }
-
 
 const Results = new Ejercicio(/* Suma(8,1) */);
 Results.Suma(8,1);
