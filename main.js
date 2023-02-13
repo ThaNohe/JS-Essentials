@@ -1,17 +1,3 @@
-/* a = 2;
-b = 4; 
-
-class Ejercicio {
-    result1;
-
-    constructor () {
-        //suma (a,b) = a + b;
-    }
-}
-
-const result1 = suma (a,b)
-
-console.log(result1) */
 
 class Ejercicio{
 Adicion;
@@ -35,7 +21,6 @@ Mult (num7 , num8){
     this.Multiplicacion = num7*num8
 };
 }
-
 
 
 const Results = new Ejercicio(/* Suma(8,1) */);
